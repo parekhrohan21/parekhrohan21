@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on project involving Python Script
+- 🌱 I’m currently studying BSc Computer Science
+- 📫 How to reach me: rohan@rohanparekh.uk
 <!--
 **parekhrohan21/parekhrohan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
