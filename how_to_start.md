@@ -30,3 +30,10 @@ Follow this <a href='https://docs.github.com/en/authentication/connecting-to-git
 
 After connecting device with Github using SSH, we can either connect local repository to Github by linking it with <a href='https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-using-the-command-line'> Github </a> or by creating a new one on Github and then using that one.
 FYI for both the requirements we need to create a repository or project in Github by website I could not find a way directly to create a repo on Github by Git-Dash also it needs to be a new repo and not an existing one
+
+After that to sync to Github
+use command 
+$ git remote add origin https://github.com/user/repo.git
+$ git branch -M main
+$ git push -u origin main
+$ git push -u origin main
