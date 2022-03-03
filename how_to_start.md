@@ -1,4 +1,4 @@
-#this file should be able to guide on the initial installation for Git in the local system
+/*<!--this file should be able to guide on the initial installation for Git in the local system-->*/
 First install Git in the computer and follow the installation process
 For Windows there is direct installation file and for Mac go to <a href='https://brew.sh'> HomeBrew </a> and copy homebrew script in terminal then copy the required git script in terminal
 once the installation is done then run the shell commands first try to link
