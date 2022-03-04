@@ -35,7 +35,6 @@ After that to sync to Github
 use command \
 `-$ git remote add origin https://github.com/user/repo.git` \
 `-$ git branch -M main` \
-`-#there might be requirement to do git pull or git fetch do as required and mentioned on terminal` \
 `-$ git push -u origin main` 
 
 
@@ -43,4 +42,5 @@ After everything is setup
 On daily basis to save and update on cloud \
 `-first $ git add file.ext` \
 `-$ git commit -m "drop a message"` \
+`-#there might be requirement to do git pull or git fetch do as required and mentioned on terminal` \
 `-$ git push -u origin main` 
