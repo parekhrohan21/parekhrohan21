@@ -16,9 +16,9 @@ $ git config --global user.name
 > Mona Lisa
 2. Second after that setup email address
 Open Git Bash.
-Set an email address in Git. You can use your GitHub-provided no-reply email address or any email address.
+Set an email address in Git. You can use your GitHub-provided no-reply email address or any email address. \
 -`$ git config --global user.email "email@example.com"`
-Confirm that you have set the email address correctly in Git:
+Confirm that you have set the email address correctly in Git:\
 -`$ git config --global user.email`
 email@example.com
 
@@ -32,14 +32,14 @@ After connecting device with Github using SSH, we can either connect local repos
 FYI for both the requirements we need to create a repository or project in Github by website I could not find a way directly to create a repo on Github by Git-Dash also it needs to be a new repo and not an existing one
 
 After everything is setup 
-On daily basis to save and update on cloud
-`-first $ git add file.ext
--$ git commit -m "drop a message"
--$ git push -u origin main`
+On daily basis to save and update on cloud \
+`-first $ git add file.ext \
+-$ git commit -m "drop a message" \
+-$ git push -u origin main` \
 
 After that to sync to Github
 use command \
-`-$ git remote add origin https://github.com/user/repo.git
--$ git branch -M main 
--#there might be requirement to do git pull or git fetch do as required and mentioned on terminal
--$ git push -u origin main`
+`-$ git remote add origin https://github.com/user/repo.git \
+-$ git branch -M main \
+-#there might be requirement to do git pull or git fetch do as required and mentioned on terminal \
+-$ git push -u origin main` \
