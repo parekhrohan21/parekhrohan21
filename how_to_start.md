@@ -1,4 +1,4 @@
-/*<!--this file should be able to guide on the initial installation for Git in the local system-->*/
+<!--this file should be able to guide on the initial installation for Git in the local system-->
 First install Git in the computer and follow the installation process
 For Windows there is direct installation file and for Mac go to <a href='https://brew.sh'> HomeBrew </a> and copy homebrew script in terminal then copy the required git script in terminal
 once the installation is done then run the shell commands first try to link
@@ -17,9 +17,9 @@ $ git config --global user.name
 2. Second after that setup email address
 Open Git Bash.
 Set an email address in Git. You can use your GitHub-provided no-reply email address or any email address.
-`$ git config --global user.email "email@example.com"`
+-`$ git config --global user.email "email@example.com"`
 Confirm that you have set the email address correctly in Git:
-$ git config --global user.email
+-`$ git config --global user.email`
 email@example.com
 
 <h2> For Mac </h2>>
@@ -33,13 +33,13 @@ FYI for both the requirements we need to create a repository or project in Githu
 
 After everything is setup 
 On daily basis to save and update on cloud
--> first $ git add file.ext
--> $ git commit -m "drop a message"
--> $ git push -u origin main
+`-first $ git add file.ext
+-$ git commit -m "drop a message"
+-$ git push -u origin main`
 
 After that to sync to Github
-use command 
-$ git remote add origin https://github.com/user/repo.git
-$ git branch -M main 
-#there might be requirement to do git pull or git fetch do as required and mentioned on terminal
-$ git push -u origin main
+use command \
+`-$ git remote add origin https://github.com/user/repo.git
+-$ git branch -M main 
+-#there might be requirement to do git pull or git fetch do as required and mentioned on terminal
+-$ git push -u origin main`
