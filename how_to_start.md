@@ -44,3 +44,8 @@ On daily basis to save and update on cloud \
 `-$ git commit -m "drop a message"` \
 `-#there might be requirement to do git pull or git fetch do as required and mentioned on terminal` \
 `-$ git push -u origin main` 
+
+If you want to add files under folder then either create new files in github website, but while naming it use '/' so it will be folder/file.ext \
+and the local repo also needs to have a folder \
+For linking them all the cmds are same except in add cmd it will be \
+`-first $ git add folder/file.ext` \
