@@ -40,7 +40,7 @@ use command \
 
 After everything is setup 
 On daily basis to save and update on cloud \
-`-first $ git add file.ext` \
+`-first $ git add file.ext or use $ git add * // this will add all the files similar to SQL` \
 `-$ git commit -m "drop a message"` \
 `-#there might be requirement to do git pull or git fetch do as required and mentioned on terminal` \
 `-$ git push -u origin main` 
