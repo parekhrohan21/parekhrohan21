@@ -49,3 +49,5 @@ If you want to add files under folder then either create new files in github web
 and the local repo also needs to have a folder \
 For linking them all the cmds are same except in add cmd it will be \
 `-first $ git add folder/file.ext` \
+
+<!-- Figuring out the connection of how to connect the git to web hosting -->
