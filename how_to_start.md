@@ -50,4 +50,5 @@ and the local repo also needs to have a folder \
 For linking them all the cmds are same except in add cmd it will be \
 `-first $ git add folder/file.ext` \
 
-<!-- Figuring out the connection of how to connect the git to web hosting -->
+<!-- Figuring out the connection of how to connect the git to web hosting and figuring how to un-link a computer from git via ssh and remove it 
+completely from the system -->
