@@ -33,9 +33,11 @@ FYI for both the requirements we need to create a repository or project in Githu
 
 After that to sync to Github
 use command \
-`-$ git remote add origin https://github.com/user/repo.git` \
+`-$ git remote add origin https://github.com/user/repo.git` \ this will be in VScode where you have your repo set up
 `-$ git branch -M main` \
 `-$ git push -u origin main` 
+IF the above lines show failed or fatal connection failed then try first 'ls' command which should print all files
+Next try git init because sometimes it needs to be initialised. Once the initialisation is done then try again the above code of git remote add ....
 
 
 After everything is setup 
