@@ -28,6 +28,7 @@ Use Terminal instead of Git Bash rest follow same points 1. and 2.
 <h2> Linking local device with SSH on Git </h2>
 Follow this <a href='https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent'> link </a> 
 
+
 Use -'$ git init' command to make sure it runs and works also if you follow the ssh commands and setup you will find that 
 there might be requirement to initialise all the time for which you can either create a .profile file or .bashrc file 
 with the required commands.
