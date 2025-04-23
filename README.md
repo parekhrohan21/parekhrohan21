@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on project involving Python Script
 - 🌱 I’m recent first class graduate fron University of East London
 - 📫 How to reach me: rohan@rohanparekh.uk || twitter: @parekhrohan21
+- - 💬 Ask me about Formula 1 
 <!--
 **parekhrohan21/parekhrohan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
