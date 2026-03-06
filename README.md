@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/parekhrohan21">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parekhrohan21&show_icons=true&theme=radical&hide_border=true&bg_color=110a05&text_color=fefce8&icon_color=00EA64&title_color=00EA64" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parekhrohan21&show_icons=true&hide_border=true&bg_color=110a05&text_color=fefce8&icon_color=00EA64&title_color=00EA64" />
   </a>
   <a href="https://github.com/parekhrohan21">
     <img height="180em" src="https://streak-stats.demolab.com/?user=parekhrohan21&hide_border=true&background=110a05&ring=00EA64&fire=00EA64&currStreakNum=fefce8&sideNums=fefce8&currStreakLabel=00EA64&sideLabels=fefce8&dates=fefce8" />
@@ -34,7 +34,7 @@
 
 <div align="center">
   <a href="https://github.com/parekhrohan21">
-    <img src="https://ghchart.rshah.org/00EA64/parekhrohan21" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=parekhrohan21&bg_color=110a05&color=00EA64&line=00EA64&point=fefce8&area=true&area_color=00EA64&hide_border=true&theme=github-compact" alt="Contribution Graph" />
   </a>
 </div>
 
