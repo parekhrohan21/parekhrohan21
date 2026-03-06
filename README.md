@@ -34,7 +34,11 @@
 
 <div align="center">
   <a href="https://github.com/parekhrohan21">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=parekhrohan21&bg_color=110a05&color=00EA64&line=00EA64&point=fefce8&area=true&area_color=00EA64&hide_border=true&theme=github-compact" alt="Contribution Graph" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parekhrohan21/parekhrohan21/output/github-contribution-grid-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parekhrohan21/parekhrohan21/output/github-contribution-grid-dark.svg" />
+      <img alt="GitHub Contribution Grid" src="https://raw.githubusercontent.com/parekhrohan21/parekhrohan21/output/github-contribution-grid-dark.svg" />
+    </picture>
   </a>
 </div>
 
