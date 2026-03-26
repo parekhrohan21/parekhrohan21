@@ -11,7 +11,7 @@
 ### 👨‍💻 Portfolio & Fundamentals
 - 🚀 **Passionate about** Computer Science and advancing my fundamental skills.
 - 🌱 I’m a recent **First Class Graduate** from the University of East London.
-- 📈 Currently gaining expertise in **Data Science** using **Jupyter Notebook**, **Anaconda**, **Pandas**, **NumPy**, and **TensorFlow**.
+- 📈 Currently gaining expertise in **Data Science** using **Jupyter Notebook**, **Anaconda**, **Pandas**, **NumPy**, and **TensorFlow**, **Pytorch**.
 - 🛠️ Also gaining basic knowledge on technical skills in **Python** and working on projects involving **Python scripting**.
 - 💼 Aspiring to join the **FinTech** space and build high-performance systems.
 - ⚙️ Interested in **DevOps**, **Networking**, and **Advanced Software Development**.
