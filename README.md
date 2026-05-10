@@ -26,11 +26,24 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parekhrohan21&show_icons=true&hide_border=true&bg_color=110a05&text_color=fefce8&icon_color=00EA64&title_color=00EA64" />
   </a>
   <a href="http://rohanparekh.uk">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=parekhrohan21&hide_border=true&background=110a05&ring=00EA64&fire=00EA64&currStreakNum=fefce8&sideNums=fefce8&currStreakLabel=00EA64&sideLabels=fefce8&dates=fefce8&freeze_days=3" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=parekhrohan21&hide_border=true&background=110a05&ring=00EA64&fire=00EA64&currStreakNum=fefce8&sideNums=fefce8&currStreakLabel=00EA64&sideLabels=fefce8&dates=fefce8&freeze_days=3&start_date=2025-02-25" />
   </a>
   <a href="https://github.com/parekhrohan21">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parekhrohan21&layout=compact&hide_border=true&bg_color=110a05&text_color=fefce8&icon_color=00EA64&title_color=00EA64&langs_count=8" />
   </a>
+  <a href="https://github.com/parekhrohan21">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parekhrohan21&hide_border=true&bg_color=110a05&text_color=fefce8&icon_color=00EA64&title_color=00EA64&custom_title=%F0%9F%A7%8A+Streak+Freeze+Shield&show=reviews,discussions_started,prs_merged,prs_merged_percentage&hide=stars,commits,prs,issues,contribs" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5_Peak_Streak-73_Days_(Feb_25_%E2%80%93_May_8)-FF6B00?style=for-the-badge&labelColor=110a05" alt="Peak Streak" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%A7%8A_Streak_Freeze-%E2%9D%84%EF%B8%8F_%E2%9D%84%EF%B8%8F_%E2%9D%84%EF%B8%8F_3_Available-00EA64?style=for-the-badge&labelColor=110a05" alt="Streak Freeze" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_Protection-Active_%26_Continuing-00EA64?style=for-the-badge&labelColor=110a05" alt="Protection Active" />
 </div>
 
 <br/>
