@@ -26,7 +26,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parekhrohan21&show_icons=true&hide_border=true&bg_color=110a05&text_color=fefce8&icon_color=00EA64&title_color=00EA64" />
   </a>
   <a href="http://rohanparekh.uk">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=parekhrohan21&hide_border=true&background=110a05&ring=00EA64&fire=00EA64&currStreakNum=fefce8&sideNums=fefce8&currStreakLabel=00EA64&sideLabels=fefce8&dates=fefce8&freeze_days=3" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=parekhrohan21&hide_border=true&background=110a05&ring=00EA64&fire=00EA64&currStreakNum=fefce8&sideNums=fefce8&currStreakLabel=00EA64&sideLabels=fefce8&dates=fefce8" />
   </a>
 </div>
 
@@ -35,6 +35,14 @@
 <div align="center">
   <a href="https://github.com/parekhrohan21">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=parekhrohan21&theme=github-dark&hide_border=true&area=true&color=00EA64&line=00EA64&point=fefce8" alt="Contribution Graph" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/parekhrohan21">
+    <img src="https://github-profile-trophy.vercel.app/?username=parekhrohan21&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
   </a>
 </div>
 
