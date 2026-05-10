@@ -39,7 +39,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5_Peak_Streak-73_Days_(Feb_25_%E2%80%93_May_8)-FF6B00?style=for-the-badge&labelColor=110a05" alt="Peak Streak" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5_Current_Streak-74_Days_(Feb_25_%E2%80%93_May_10)-FF6B00?style=for-the-badge&labelColor=110a05" alt="Peak Streak" />
   &nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%A7%8A_Streak_Freeze-%E2%9D%84%EF%B8%8F_%E2%9D%84%EF%B8%8F_%E2%9D%84%EF%B8%8F_3_Available-00EA64?style=for-the-badge&labelColor=110a05" alt="Streak Freeze" />
   &nbsp;
