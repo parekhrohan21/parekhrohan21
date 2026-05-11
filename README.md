@@ -38,13 +38,6 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/parekhrohan21">
-    <img src="https://github-profile-trophy.vercel.app/?username=parekhrohan21&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</div>
 
 <br/>
 
