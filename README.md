@@ -70,6 +70,15 @@
   <a href="https://docs.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda%20Docs-44A833?style=for-the-badge&logo=anaconda&logoColor=white" /></a>
 </p>
 
+#### 🏦 Financial Management and Financial Decision Making
+<p align="left">
+  <a href="https://www.investopedia.com/"><img src="https://img.shields.io/badge/Financial%20Markets-00EA64?style=for-the-badge&logo=googlefinance&logoColor=black" /></a>
+  <a href="https://corporatefinanceinstitute.com/resources/"><img src="https://img.shields.io/badge/Corporate%20Finance-002D62?style=for-the-badge&logo=chartdotjs&logoColor=white" /></a>
+  <a href="https://www.coursera.org/courses?query=financial%20management"><img src="https://img.shields.io/badge/Financial%20Management-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /></a>
+  <a href="https://www.khanacademy.org/college-careers-more/personal-finance"><img src="https://img.shields.io/badge/Financial%20Decision%20Making-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white" /></a>
+  <a href="https://www.investopedia.com/terms/f/financial-modeling.asp"><img src="https://img.shields.io/badge/Financial%20Modeling-110A05?style=for-the-badge&logo=microsoftexcel&logoColor=white" /></a>
+</p>
+
 ---
 
 ### 📫 Open For Networking
