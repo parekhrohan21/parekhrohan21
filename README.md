@@ -53,6 +53,9 @@
 [![NeetCode](https://img.shields.io/badge/NeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Grind 75](https://img.shields.io/badge/Grind%2075-00EA64?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.techinterviewhandbook.org/grind75)
+[![AlgoMonster](https://img.shields.io/badge/AlgoMonster-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://algo.monster/)
 
 #### 📚 Mastering Data Science
 <p align="left">
