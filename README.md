@@ -58,7 +58,6 @@
 
 #### 📊 Data Science and Neural Network Learning
 <p align="left">
-  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://pandas.pydata.org/docs/getting_started/index.html"><img src="https://img.shields.io/badge/Learn%20Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
   <a href="https://www.tensorflow.org/tutorials"><img src="https://img.shields.io/badge/Learn%20TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
   <a href="https://jupyter.org/try"><img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
