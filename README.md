@@ -53,12 +53,12 @@
 [![NeetCode](https://img.shields.io/badge/NeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![Grind 75](https://img.shields.io/badge/Grind%2075-00EA64?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.techinterviewhandbook.org/grind75)
 [![AlgoMonster](https://img.shields.io/badge/AlgoMonster-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://algo.monster/)
 
-#### 📚 Mastering Data Science
+#### 📊 Data Science
 <p align="left">
+  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://pandas.pydata.org/docs/getting_started/index.html"><img src="https://img.shields.io/badge/Learn%20Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
   <a href="https://www.tensorflow.org/tutorials"><img src="https://img.shields.io/badge/Learn%20TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
   <a href="https://jupyter.org/try"><img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
