@@ -56,7 +56,7 @@
 [![Grind 75](https://img.shields.io/badge/Grind%2075-00EA64?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.techinterviewhandbook.org/grind75)
 [![AlgoMonster](https://img.shields.io/badge/AlgoMonster-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white)](https://algo.monster/)
 
-#### 📊 Data Science
+#### 📊 Data Science and Neural Network Learning
 <p align="left">
   <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://pandas.pydata.org/docs/getting_started/index.html"><img src="https://img.shields.io/badge/Learn%20Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
