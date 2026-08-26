@@ -30,14 +30,6 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/parekhrohan21">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=parekhrohan21&theme=github-dark&hide_border=true&area=true&color=00EA64&line=00EA64&point=fefce8" alt="Contribution Graph" />
-  </a>
-</div>
-
 
 <br/>
 
