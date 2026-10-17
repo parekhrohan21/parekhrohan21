@@ -8,18 +8,19 @@
 
 <br/>
 
-### 👨‍💻 Portfolio & Fundamentals
-- 🚀 **Passionate about** Computer Science and advancing my fundamental skills.
-- 🌱 I’m a recent **First Class Graduate** from the University of East London.
-- 📈 Currently gaining expertise in **Data Science** using **Jupyter Notebook**, **Anaconda**, **Pandas**, **NumPy**, and **TensorFlow**, **Pytorch**.
-- 🛠️ Also gaining basic knowledge on technical skills in **Python** and working on projects involving **Python scripting**.
+### 👨‍💻 About Me
+- 🎓 **First Class Graduate** in Computer Science from the **University of East London**. My dissertation predicted cryptocurrency prices with machine learning and sentiment analysis of tweets (VADER, TextBlob, FLAIR).
+- 🏎️ Currently building **[Pit Wall](https://github.com/parekhrohan21/fastf1_pitwall)**, a Formula 1 telemetry and race strategy dashboard in **Python**, **Streamlit**, **FastF1**, and **Plotly**.
+- 🏦 Completed virtual work experience with **Citi** (pricing coffee futures options) and **Wells Fargo** (a Spring Boot data layer) through **Forage**.
+- 📈 Working in **Data Science** with **Jupyter**, **Pandas**, **NumPy**, **scikit-learn**, **TensorFlow/Keras**, and **PyTorch**.
 - 💼 Aspiring to join the **FinTech** space and build high-performance systems.
-- ⚙️ Interested in **DevOps**, **Networking**, and **Advanced Software Development**.
+- ⚙️ Interested in **DevOps** (Docker, Dev Containers, GitHub Actions), **Networking**, and **Advanced Software Development**.
+- 🌐 Portfolio: **[rohanparekh.uk](https://rohanparekh.uk)**
 - 🏎️ **Hobbies (Outside Tech):** Massive fan of Formula 1! Die-hard supporter of the **McLaren F1 Team** 🟠 (Team Papaya!).
 
 ---
 
-### � GitHub Analytics (All-Time Highs)
+### 📊 GitHub Analytics (All-Time Highs)
 
 <div align="center">
   <a href="https://github.com/parekhrohan21">
@@ -36,6 +37,20 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=parekhrohan21&style=flat-square&color=00EA64&label=Profile+Views+(Up+Trending)" alt="Profile Views" />
 </div>
+
+---
+
+### 🛠️ Featured Projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| 🏎️ **[Pit Wall — F1 Telemetry Dashboard](https://github.com/parekhrohan21/fastf1_pitwall)** · [Live app](https://rpf1pitwall.streamlit.app) | Explore any F1 session since 2018: 6-channel telemetry, tyre stints, pit stop losses, teammate battles, race-weekend progression, track maps, and race replays | Python, Streamlit, FastF1, Plotly, Pandas, Docker, pytest |
+| 📚 **[Reading Lists Tracker](https://github.com/parekhrohan21/reading_list_tracker)** · [Live site](https://parekhrohan21.github.io/reading_list_tracker/) | Tracks curated reading lists (Gates Notes, LSE Review of Books, Goldman Sachs, BlackRock) with search, year filters, and progress | HTML, CSS, JavaScript, GitHub Pages |
+| 🤖 **[Gemini Chatbot](https://github.com/parekhrohan21/gemini_chatbot)** | Voice-enabled AI assistant with a web UI visualiser orb and a Python CLI that speaks its replies | Node.js, Express, Gemini 2.5 Flash Lite, Python, pyttsx3 |
+| ☕ **[Coffee Futures Option Pricing](https://github.com/parekhrohan21/coffee_contracts_fo)** | Citi Forage project pricing coffee futures options with Black-76 and Monte Carlo simulation | Python, NumPy, SciPy, Matplotlib, Jupyter |
+| 🏦 **[Wells Fargo Financial Counselor API](https://github.com/parekhrohan21/wells-fargo-task-2)** | Wells Fargo Forage project modelling advisors, clients, portfolios, and securities | Java 25, Spring Boot, Spring Data JPA, H2 |
+| 🧠 **[ML Analysis](https://github.com/parekhrohan21/ml_analysis)** | Online shopper intent clustering, Amazon bestseller rating prediction (MLP), and DOGE-USD price prediction | scikit-learn, Keras, Pandas, Seaborn, Docker |
+| 🌐 **[Elebyte](https://github.com/parekhrohan21/elebyteproj)** | Responsive marketing website for a tech training and digital solutions company | HTML, CSS |
 
 ---
 
@@ -77,6 +92,9 @@
 
 ### 📫 Open For Networking
 <p align="center">
+  <a href="https://rohanparekh.uk">
+    <img src="https://img.shields.io/badge/Portfolio-00EA64?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
   <a href="mailto:parekhrohan21@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
