@@ -88,6 +88,12 @@
   <a href="https://www.investopedia.com/terms/f/financial-modeling.asp"><img src="https://img.shields.io/badge/Financial%20Modeling-110A05?style=for-the-badge&logo=microsoftexcel&logoColor=white" /></a>
 </p>
 
+#### 🔎 Research & Self-Learning
+<p align="left">
+  <a href="https://quickref.me/"><img src="https://img.shields.io/badge/QuickRef.ME-00EA64?style=for-the-badge&logo=readthedocs&logoColor=black" /></a>
+  <a href="https://learn-anything.xyz/"><img src="https://img.shields.io/badge/Learn%20Anything-110A05?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
+</p>
+
 ---
 
 ### 📫 Open For Networking
