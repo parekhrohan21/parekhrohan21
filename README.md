@@ -92,6 +92,12 @@
 <p align="left">
   <a href="https://quickref.me/"><img src="https://img.shields.io/badge/QuickRef.ME-00EA64?style=for-the-badge&logo=readthedocs&logoColor=black" /></a>
   <a href="https://learn-anything.xyz/"><img src="https://img.shields.io/badge/Learn%20Anything-110A05?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
+  <a href="https://exceljet.net/"><img src="https://img.shields.io/badge/Exceljet-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /></a>
+</p>
+
+#### 🌍 General Knowledge
+<p align="left">
+  <a href="https://smart.servier.com/"><img src="https://img.shields.io/badge/SMART%20(Servier%20Medical%20Art)-0072CE?style=for-the-badge&logo=biolink&logoColor=white" /></a>
 </p>
 
 ---
